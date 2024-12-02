@@ -1,0 +1,10 @@
+# ninja log v6
+11	827	7548369569473699	Sahkolaskuri_autogen/timestamp	94e97e2a760170d1
+11	827	7548369569473699	Sahkolaskuri_autogen/mocs_compilation.cpp	94e97e2a760170d1
+11	827	7548369569473699	C:/Users/aoska/Documents/Sahkolaskuri/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Sahkolaskuri_autogen/timestamp	94e97e2a760170d1
+11	827	7548369569473699	C:/Users/aoska/Documents/Sahkolaskuri/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Sahkolaskuri_autogen/mocs_compilation.cpp	94e97e2a760170d1
+921	1025	7548369571329192	CMakeFiles/Sahkolaskuri.dir/nollavirran_laskeminen.cpp.obj	d81d9f8c78cde3b5
+872	3003	7548369570834712	CMakeFiles/Sahkolaskuri.dir/main.cpp.obj	8f14d2fb874d557b
+896	3075	7548369571079490	CMakeFiles/Sahkolaskuri.dir/mainwindow.cpp.obj	629916242252e008
+840	3092	7548369570521271	CMakeFiles/Sahkolaskuri.dir/Sahkolaskuri_autogen/mocs_compilation.cpp.obj	e3903a456e88eb64
+3092	3406	7548369593040646	Sahkolaskuri.exe	77edbae195acd763
